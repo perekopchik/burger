@@ -1,0 +1,21 @@
+.footer{
+    margin-top: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: row;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+}
+.footerPBold{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+}
+.footerPNormal{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
