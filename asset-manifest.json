@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/burger/static/css/main.1f119703.css",
+    "main.js": "/burger/static/js/main.e657f8b2.js",
+    "static/media/Image 1.png": "/burger/static/media/Image 1.ce888a7bcc1db3b77e7a.png",
+    "static/media/Rectangle 10.png": "/burger/static/media/Rectangle 10.da063cfc471752d046aa.png",
+    "static/media/Groupe 2.png": "/burger/static/media/Groupe 2.4069aa14ff24132559a2.png",
+    "static/media/Design-4.png": "/burger/static/media/Design-4.d0642f5002a086256a92.png",
+    "static/media/Design-3.png": "/burger/static/media/Design-3.80ebd5f1e6693050a67b.png",
+    "static/media/tomato.png": "/burger/static/media/tomato.7287dbc113ebe1e81d84.png",
+    "static/media/Design-1.png": "/burger/static/media/Design-1.8ae3ad45efbb8c0aad46.png",
+    "static/media/19.png": "/burger/static/media/19.3cdb73503337e06080d6.png",
+    "static/media/Design-2.png": "/burger/static/media/Design-2.de0a8e38a0351afd9301.png",
+    "static/media/Groupe1.png": "/burger/static/media/Groupe1.180fcd7fbaaaaf357426.png",
+    "index.html": "/burger/index.html",
+    "static/media/Tracé 1.svg": "/burger/static/media/Tracé 1.d43b710cdeb8730dfff891ea2f9bbd04.svg",
+    "main.1f119703.css.map": "/burger/static/css/main.1f119703.css.map",
+    "main.e657f8b2.js.map": "/burger/static/js/main.e657f8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f119703.css",
+    "static/js/main.e657f8b2.js"
+  ]
+}
